@@ -52,7 +52,6 @@ export type Trainer = {
   certifications: string[];
   years: number;
   philosophy: string;
-  image: SiteImage;
 };
 
 export type ScheduleSlot = {
